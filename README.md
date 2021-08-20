@@ -27,16 +27,17 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter>
+</div>
                                                                      
   ##
                                                                     
-  <div> 
+<div> 
   <a href="https://www.instagram.com/edsonmontanhini_asperger/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:edsonjm963@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
    ![Snake animation](https://github.com/EdsonMontanhini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-  </div>
+ </div>
   
   
